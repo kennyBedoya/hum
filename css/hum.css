@@ -101,6 +101,10 @@ i.social-icon{
   font-size: 1.3em;
 }
 
+.cursor_pointer{
+  cursor: pointer !important;
+}
+
 /* ///// inputs /////*/
 
 input:focus ~ label, textarea:focus ~ label, input:valid ~ label, textarea:valid ~ label {

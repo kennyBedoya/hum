@@ -1,1 +1,1 @@
-# hum
+# HUM CLUB WEBSITE
